@@ -4,7 +4,7 @@
 
 A simple react based jokes app for fun lovers to search for jokes.All the jokes are generated from Dad Jokes Api.
 
-Jokes App is hosted on Heroku. Check it out live:
+Jokes App is hosted on Heroku. Check it out live:https://salty-atoll-34163.herokuapp.com/
 
 ## Installation
 
