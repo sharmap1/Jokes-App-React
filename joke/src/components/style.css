@@ -1,0 +1,16 @@
+.sub-card {
+  background-color: papayawhip;
+  color: teal;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.joke-card {
+  background-color: cadetblue;
+  color: white;
+  border-radius: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  font-size: smaller;
+}
